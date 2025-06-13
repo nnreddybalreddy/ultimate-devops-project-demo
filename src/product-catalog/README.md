@@ -9,6 +9,8 @@ INFO[0000] Product Catalog gRPC server started on port: 8088
 
 ## Local Build
 
+
+
 To build the service binary, run:
 
 ```sh
